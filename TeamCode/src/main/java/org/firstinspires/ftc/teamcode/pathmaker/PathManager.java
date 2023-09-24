@@ -22,6 +22,7 @@ package org.firstinspires.ftc.teamcode.pathmaker;
 // import RobotPose from sim package for simulation mode
 // import org.firstinspires.ftc.sim.RobotPose;
 // import RobotPose from op package for real robot
+// The pathmaker module is linked to simulation module, see PathmakerGame repo
 import org.firstinspires.ftc.teamcode.op.RobotPose;
 
 public class PathManager {
